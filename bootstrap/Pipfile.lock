@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "427b2ccef325df199be8c4f08fd999e643db8891823923d1e9e31205966e0bb7"
+            "sha256": "fd08720466c72457b05012aa361e71db6563e0835244415198c918bf64362aff"
         },
         "requires": {
             "python_version": "3.6"
@@ -31,6 +31,9 @@
         },
         "urllib3": {
             "version": "==1.22"
+        },
+        "wget": {
+            "version": "==3.2"
         }
     },
     "develop": {}
