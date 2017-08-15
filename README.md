@@ -25,17 +25,17 @@ Options:
 
 ```
 
-Leaves a populated folderlike so
+Leaves a populated folder like so
 
 ```
-├── movidius/
-│   ├── docs/
-│   │   ├── MvNC_SDK_1.07.07_ReleaseNotes.txt
-│   │   ├── NCS_API_1.07.07.pdf
-│   │   ├── NCS_Getting_Started_1.07.07.pdf
-│   │   └── NCS_Toolkit_1.07.06.pdf
-│   └── sdk/
-│       └── MvNC_SDK_1.07.07.tgz
+── movidius/
+   ├── docs/
+   │   ├── MvNC_SDK_1.07.07_ReleaseNotes.txt
+   │   ├── NCS_API_1.07.07.pdf
+   │   ├── NCS_Getting_Started_1.07.07.pdf
+   │   └── NCS_Toolkit_1.07.06.pdf
+   └── sdk/
+       └── MvNC_SDK_1.07.07.tgz
 
 ```
 
