@@ -1,5 +1,7 @@
 # deepshtick
 
+!()[./docs/stick.jpg]
+
 Movidius Neural compute stick dev tools and notes.
 
 Use the bootstrap tool to fetch the SDK and docs
