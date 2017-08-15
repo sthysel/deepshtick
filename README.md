@@ -1,6 +1,6 @@
 # deepshtick
 
-!()[./docs/stick.jpg]
+![](./docs/stick.jpg)
 
 Movidius Neural compute stick dev tools and notes.
 
